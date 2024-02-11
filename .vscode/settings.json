@@ -1,0 +1,31 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.words": [
+    "aiohttp",
+    "aiosparql",
+    "aminer",
+    "baike",
+    "coro",
+    "dbpedia",
+    "FOAF",
+    "foss",
+    "hypernyms",
+    "inslink",
+    "issn",
+    "mappingbased",
+    "mydialect",
+    "mydict",
+    "mylist",
+    "rdflib",
+    "rdfs",
+    "redict",
+    "SPARQL",
+    "sqarql",
+    "tqdm"
+  ],
+  "python.analysis.autoImportCompletions": true
+}
